@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight)
-
 ### Olá! Sou o Vitor
 
 - 💻 Em busca da minha primeira vaga como Dev (Back, Front ou Full)
@@ -27,7 +25,9 @@
   
 </div>
 
-
+  ##
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight)
 
 
 ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
