@@ -1,11 +1,10 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=dracula)
+
 ### Olá! Sou o Vitor
 
 - 💻 Em busca da minha primeira vaga como Dev (Back, Front ou Full)
 - 📚 Estudante de Node.js e TypeScript
 - ⚽ Ele/dele
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
