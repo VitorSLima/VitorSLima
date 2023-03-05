@@ -1,8 +1,10 @@
-### Olá! Sou o Vitor
-
-- 💻 Em busca da minha primeira vaga como Dev;
-- 📚 Estudante de Node.js e TypeScript;
-- ⚽ Ele/dele
+<div> 
+<a href="https://github.com/VitorLima1998">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=algolia"
+</div>
+  
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,7 +15,8 @@
   <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vitor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/74/2f/d5/742fd5a3639902802e8535953fd2c920.jpg">
+  
+  <img align="right" alt="Vitor-pic" height="150" style="border-radius:300px;" src="https://i.pinimg.com/736x/74/2f/d5/742fd5a3639902802e8535953fd2c920.jpg">
 </div>
   
    ##
@@ -25,8 +28,7 @@
   
 </div>
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight)
+
 
 
 <!-- ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
