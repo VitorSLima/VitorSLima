@@ -1,7 +1,7 @@
 ### Olá! Sou o Vitor
 
-- 💻 Em busca da minha primeira vaga como Dev (Back, Front ou Full)
-- 📚 Estudante de Node.js e TypeScript
+- 💻 Em busca da minha primeira vaga como Dev;
+- 📚 Estudante de Node.js e TypeScript;
 - ⚽ Ele/dele
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
 </div>
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight&card_width=550px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight)
 
 
 <!-- ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
