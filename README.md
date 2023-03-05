@@ -1,7 +1,7 @@
 ### Olá! Sou o Vitor
 
-- 💻 Em busca da minha primeira vaga como Dev (back, front ou full)
-- 📚 Estudando Node.js e TypeScript
+- 💻 Em busca da minha primeira vaga como Dev (Back, Front ou Full)
+- 📚 Estudante de Node.js e TypeScript
 - ⚽ Ele/dele
 
 
