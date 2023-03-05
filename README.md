@@ -25,9 +25,8 @@
   
 </div>
 
-  ##
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=tokyonight&card_width=500px)
 
 
-![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
