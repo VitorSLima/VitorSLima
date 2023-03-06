@@ -26,7 +26,7 @@
   <!-- Icon Docker -->
   <img align="center" alt="Vitor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <!-- Icon profile -->
-  <img align="right" alt="Vitor-pic" height="150" style="border-radius:300px;" src="https://i.pinimg.com/736x/74/2f/d5/742fd5a3639902802e8535953fd2c920.jpg">
+  <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/7944/32abf859a94ee1ba8548ce4cefca4d53ce95f6cer1-1080-1080v2_hq.jpg">
 </div>
   
    ##
