@@ -1,5 +1,5 @@
 <div> 
-<a href="https://github.com/VitorLima1998">
+  <a href="https://github.com/VitorLima1998">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=algolia"
 </div>
@@ -36,10 +36,7 @@
   <a href="https://www.linkedin.com/in/vitor-dos-santos-lima-807461261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!-- Icon Outlook link -->
   <a href = "mailto:vitor.xlr8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
 </div>
-
-
 
 
 <!-- ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
