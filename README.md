@@ -38,5 +38,4 @@
   <a href = "mailto:vitor.xlr8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-
-<!-- ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
