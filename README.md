@@ -1,5 +1,5 @@
 <div> 
-<img align="center" height="300" width="450" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&theme=codeSTACKr&show_icons=true&locale=en" alt="Vitor Lima" />
+<img align="center" height="200" width="350" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&theme=codeSTACKr&show_icons=true&locale=en" alt="Vitor Lima" />
 <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorLima1998&theme=codeSTACKr&" alt="Vitor Lima" />
 </div>
 
