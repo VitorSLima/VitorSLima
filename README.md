@@ -5,10 +5,10 @@
 </div>
 
 <a href="https://github.com/VitorLima1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorLima1998&repo=github-readme-stats&theme=algolia" />
 </a>
 <a href="https://github.com/VitorLima1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorLima1998&repo=anuraghazra.github.io&theme=algolia" />
 </a>
 
 <br />
