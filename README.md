@@ -3,12 +3,6 @@
 <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorLima1998&theme=codeSTACKr&" alt="Vitor Lima" />
 </div>
 
-
-<br />
-<br />
-
-
-  
 ###
 
 <div style="display: inline_block"><br>
