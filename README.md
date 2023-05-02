@@ -1,25 +1,13 @@
 <div> 
-  <a href="https://github.com/VitorLima1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=algolia"
+<img align="center" height="300" width="450" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&theme=codeSTACKr&show_icons=true&locale=en" alt="Vitor Lima" />
+<img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorLima1998&theme=codeSTACKr&" alt="Vitor Lima" />
 </div>
 
-<a href="https://github.com/VitorLima1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorLima1998&repo=github-readme-stats&theme=algolia" />
-</a>
-<a href="https://github.com/VitorLima1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorLima1998&repo=anuraghazra.github.io&theme=algolia" />
-</a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+
   
 ###
 
