@@ -1,6 +1,5 @@
-<div style="display: inline_block" align="center" > 
+<div style="display: inline_block"> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=codestackr)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=codeSTACKr)](https://github.com/VitorLima1998/github-readme-stats)
 
 </div>
