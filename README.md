@@ -1,6 +1,5 @@
 <div style="display: inline_block" align="center"> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VitorLima1998&theme=codeSTACKr)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=codeSTACKr)](https://github.com/VitorLima1998/github-readme-stats)
 
 </div>
