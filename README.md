@@ -1,7 +1,13 @@
-<div style="display: inline_block"> 
-<img align="center" height="200" width="350" src="https://github-readme-stats.vercel.app/api?username=VitorLima1998&theme=codeSTACKr&show_icons=true&locale=en" alt="Vitor Lima" />
-<img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorLima1998&theme=codeSTACKr&" alt="Vitor Lima" />
+<div style="display:inline-block;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=blue-green" alt="Top Langs Vitor" />
+</a>
+  <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorLima1998&theme=blue-green&" alt="Vitor Lima" />
 </div>
+
+
+
+
 
 ###
 
@@ -25,7 +31,7 @@
   <!-- Icon Docker -->
   <img align="center" alt="Vitor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <!-- Icon profile -->
-  <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/7944/32abf859a94ee1ba8548ce4cefca4d53ce95f6cer1-1080-1080v2_hq.jpg">
+<!--   <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/7944/32abf859a94ee1ba8548ce4cefca4d53ce95f6cer1-1080-1080v2_hq.jpg"> -->
 </div>
   
    ##
