@@ -1,8 +1,8 @@
 <div style="display:inline-block;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLima1998&layout=compact&theme=blue-green" alt="Top Langs Vitor" />
+  <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=blue-green" alt="Top Langs Vitor" />
 </a>
-  <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorLima1998&theme=blue-green&" alt="Vitor Lima" />
+  <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorSLima&theme=blue-green&" alt="Vitor Lima" />
 </div>
 
 
@@ -45,4 +45,4 @@
   <a href = "mailto:vitor.xlr8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- ![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/VitorSLima/VitorSLima/blob/output/github-contribution-grid-snake.svg) -->
