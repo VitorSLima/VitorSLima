@@ -4,8 +4,15 @@
 </a>
   <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorSLima&theme=blue-green&" alt="Vitor Lima" />
 </div>
-
+  
 ###
+ 
+<div> 
+ <!-- Icon Linkedin link-->
+  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- Icon Outlook link -->
+  <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div style="display: inline_block"><br>
   <!-- Icon HTML -->
@@ -31,30 +38,21 @@
   <!-- Icon profile -->
 <!--   <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/7944/32abf859a94ee1ba8548ce4cefca4d53ce95f6cer1-1080-1080v2_hq.jpg"> -->
 </div>
-  
-###
- 
-<div> 
- <!-- Icon Linkedin link-->
-  <a href="https://www.linkedin.com/in/vitor-dos-santos-lima-807461261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- Icon Outlook link -->
-  <a href = "mailto:vitor.xlr8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
 
-###
+##
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
