@@ -1,11 +1,14 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=blue-green" alt="Top Langs Vitor" />
+    <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorSLima&theme=blue-green&" alt="Vitor Lima" />
+    <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
   </a>
 </div>
+
+
+
 
   
 <div align="center">
