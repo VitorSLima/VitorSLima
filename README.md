@@ -1,9 +1,14 @@
-<div style="display:inline-block;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=blue-green" alt="Top Langs Vitor" />
-</a>
-  <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorSLima&theme=blue-green&" alt="Vitor Lima" />
+
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=blue-green" alt="Top Langs Vitor" />
+    </a>
+    <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorSLima&theme=blue-green&" alt="Vitor Lima" />
+  </div>
 </div>
+
   
 ###
 
