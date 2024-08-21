@@ -1,5 +1,4 @@
-
-
+<!-- GITHUB STATS -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
@@ -9,7 +8,9 @@
 </a>
 </div>
 
+###
 
+<!-- STACKS ICONS -->
 <div style="display: inline_block">
   <!-- Icon HTML -->
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -45,6 +46,7 @@
 
 ##
 
+<!-- CONTACT BADGES -->
 <div> 
  <!-- Icon Linkedin link-->
   <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a> 
@@ -52,10 +54,9 @@
   <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=gmail&logoColor=white"            target="_blank"></a>
 </div>
 
+###
 
-<br/>
-<br/>
-
+<!-- SNAKE GAME -->
 <div align="center">
   <picture>
     <source
@@ -71,6 +72,4 @@
       src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</div>
-
 </div>
