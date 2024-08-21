@@ -6,13 +6,6 @@
 </div>
   
 ###
- 
-<div> 
- <!-- Icon Linkedin link-->
-  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- Icon Outlook link -->
-  <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 <div style="display: inline_block"><br>
   <!-- Icon HTML -->
@@ -40,6 +33,14 @@
 </div>
 
 ##
+
+<div> 
+ <!-- Icon Linkedin link-->
+  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- Icon Outlook link -->
+  <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 
 <picture>
   <source
