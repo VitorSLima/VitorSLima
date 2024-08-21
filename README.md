@@ -26,36 +26,45 @@
 </div>
 
 
-<div style="display: inline_block"><br>
-  <!-- Icon HTML -->
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <!-- Icon CSS -->
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- Icon SASS -->
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <!-- Icon JS -->
-  <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- Icon Node -->
-  <img align="center" alt="Vitor-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" >
-  <!-- Icon TS -->
-  <img align="center" alt="Vitor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!-- Icon Nest -->
-  <img align="center" alt="Vitor-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-  <!-- Icon Angular -->
-  <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <!-- Icon React -->
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!-- Icon Docker -->
-  <img align="center" alt="Vitor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <!-- Icon profile -->
-<!--   <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/7944/32abf859a94ee1ba8548ce4cefca4d53ce95f6cer1-1080-1080v2_hq.jpg"> -->
-</div>
+<br/>
+<br/>
+
+
+<div>
+
+  <div>
+    <!-- Icon HTML -->
+    <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <!-- Icon CSS -->
+    <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <!-- Icon SASS -->
+    <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <!-- Icon JS -->
+    <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <!-- Icon Node -->
+    <img align="center" alt="Vitor-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" >
+    <!-- Icon TS -->
+    <img align="center" alt="Vitor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <!-- Icon Nest -->
+    <img align="center" alt="Vitor-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
+    <!-- Icon Angular -->
+    <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <!-- Icon React -->
+    <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!-- Icon Docker -->
+    <img align="center" alt="Vitor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <!-- Icon profile -->
+    <!--   <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/7944/32abf859a94ee1ba8548ce4cefca4d53ce95f6cer1-1080-1080v2_hq.jpg"> -->
+  </div>
 
 ##
 
-<div> 
- <!-- Icon Linkedin link-->
-  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- Icon Outlook link -->
-  <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div> 
+   <!-- Icon Linkedin link-->
+    <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <!-- Icon Outlook link -->
+    <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+
 </div>
+
