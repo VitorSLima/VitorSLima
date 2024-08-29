@@ -8,9 +8,10 @@
 </a>
 </div>
 
-###
 
-<p> ⚡ Tech Skills <p>
+### ⚡ Tech Skills 
+
+
 <!-- STACKS ICONS -->
 <div style="display: inline_block">
   <!-- Frontend -->
