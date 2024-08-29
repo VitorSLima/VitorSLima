@@ -47,14 +47,19 @@
 ##
 
 <!-- CONTACT BADGES -->
-<div> 
- <!-- Icon Linkedin link-->
-  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a> 
+<div style="display: flex; align-items: center;">
+  <!-- Icon Linkedin link -->
+  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <!-- Icon Gmail link -->
-  <a href = "mailto:dev.vitorlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=gmail&logoColor=white"            target="_blank"></a>
-
-  ![Visits](https://img.shields.io/badge/Visits-9534-blue)
+  <a href="mailto:dev.vitorlima@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <!-- Visitor Badge -->
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
+
 
 ###
 
