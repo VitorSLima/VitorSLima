@@ -9,8 +9,6 @@
 </div>
 
 
-### ⚡ Tech Skills 
-
 
 <!-- STACKS ICONS -->
 <div style="display: inline_block">
