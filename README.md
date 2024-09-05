@@ -8,10 +8,8 @@
 </a>
 </div>
 
-
 <!-- STACKS ICONS -->
 <div style="display: inline_block">
-  
   <!-- Icon React -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <!-- Icon Angular -->
@@ -60,7 +58,6 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
-
 ###
 
 <!-- SNAKE GAME -->
@@ -80,6 +77,3 @@
     />
   </picture>
 </div>
-
-
-
