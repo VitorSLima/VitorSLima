@@ -9,7 +9,7 @@
 </div>
 
 <!-- STACKS ICONS -->
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   
   <!-- Icon React -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -42,7 +42,8 @@
   <!-- Profile Picture -->
   <!-- <img align="right" alt="Vitor-pic" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLATfW9lZKkN-ylN0w7oZp_xaf_zBPA3W7PMjGPv8hHIhP-P1o=s576-c-no"> -->
 
-##
+<br>
+<br>
 
   <!-- CONTACT BADGES -->
   <div style="display: inline_block">
