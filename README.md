@@ -1,12 +1,14 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center" height="300" width="510" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
+    <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
   </a>
 </div>
+
+###
 
 <!-- STACKS ICONS -->
 <div align="center" style="display: inline_block">
@@ -41,9 +43,8 @@
 
   <!-- Profile Picture -->
   <!-- <img align="right" alt="Vitor-pic" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLATfW9lZKkN-ylN0w7oZp_xaf_zBPA3W7PMjGPv8hHIhP-P1o=s576-c-no"> -->
-
-<br>
-<br>
+  
+###
 
   <!-- CONTACT BADGES -->
   <div style="display: inline_block">
