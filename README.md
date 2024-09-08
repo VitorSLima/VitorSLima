@@ -10,6 +10,7 @@
 
 <!-- STACKS ICONS -->
 <div style="display: inline_block">
+  
   <!-- Icon React -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <!-- Icon Angular -->
@@ -40,22 +41,23 @@
 
   <!-- Profile Picture -->
   <img align="right" alt="Vitor-pic" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLATfW9lZKkN-ylN0w7oZp_xaf_zBPA3W7PMjGPv8hHIhP-P1o=s576-c-no">
-</div>
 
 ##
 
-<!-- CONTACT BADGES -->
-<div style="display: flex; align-items: center;">
-  <!-- Icon Linkedin link -->
-  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <!-- Icon Gmail link -->
-  <a href="mailto:dev.vitorlima@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <!-- Visitor Badge -->
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
+  <!-- CONTACT BADGES -->
+  <div style="display: inline_block">
+    <!-- Icon Linkedin link -->
+    <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <!-- Icon Gmail link -->
+    <a href="mailto:dev.vitorlima@gmail.com" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <!-- Visitor Badge -->
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
+  </div>
+  
 </div>
 
 ###
