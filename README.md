@@ -8,7 +8,9 @@
   </a>
 </div>
 
+
 ###
+
 
 <!-- STACKS ICONS -->
 <div align="center" style="display: inline_block">
@@ -43,8 +45,10 @@
 
   <!-- Profile Picture -->
   <!-- <img align="right" alt="Vitor-pic" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLATfW9lZKkN-ylN0w7oZp_xaf_zBPA3W7PMjGPv8hHIhP-P1o=s576-c-no"> -->
+
   
 ###
+
 
   <!-- CONTACT BADGES -->
   <div style="display: inline_block">
