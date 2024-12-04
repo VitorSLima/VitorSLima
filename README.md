@@ -9,10 +9,11 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <a href="https://github.com/VitorSLima/github-readme-stats">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
+    <img align="center" height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img align="center" height="180"src="https://github-readme-stats.vercel.app/api?username=VitorSLima&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"&hide_border=true" alt="Vitor's github stats"/>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
   </a>
 </div>
 
