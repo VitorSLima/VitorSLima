@@ -4,10 +4,10 @@
   </a>
 </p>
 
+
 ## 🚀 Tech Skills
 
 <div style="display: inline_block">
-  
   <!-- FRONT END SKILLS -->
   <h3>🎨 Front-End</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
+
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -48,15 +49,6 @@
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
   </a>
-</div>
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 
@@ -71,6 +63,14 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 
 
