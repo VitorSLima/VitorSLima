@@ -1,94 +1,84 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=600&height=45&color=FFA500&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello!%20I'm%20Vitor%20Lima;Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=600&height=50&color=FFA500&vCenter=true&pause=1000&size=24" />
   </a>
 </p>
 
+## 🚀 Tech Skills
 
-<!-- GITHUB STATS -->
+<div style="display: inline_block">
+  
+  <!-- FRONT END SKILLS -->
+  <h3>🎨 Front-End</h3>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+
+  <!-- BACK END SKILLS -->
+  <h3>🧠 Back-End</h3>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+
+  <!-- DATABASE SKILLS -->
+  <h3>🗄️ Databases</h3>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  
+  <!-- UI/UX SKILLS -->
+  <h3>🎨 UI/UX</h3>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+## 🔥 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/VitorSLima/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
   </a>
-
-
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
   </a>
 </div>
 
-###
-
-<!-- STACKS ICONS -->
-<div align="center" style="display: inline_block">
-  
-  <!-- Icon React -->
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!-- Icon Angular -->
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <!-- Icon Next -->
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <!-- Icon Tailwind -->
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-  <!-- Icon Node.js -->
-  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <!-- Icon Nest -->
-  <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-  <!-- Icon TS -->
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-
-  <!-- Icon MySQL -->
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <!-- Icon PostgreSQL -->
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <!-- Icon MongoDB -->
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <!-- Icon Redis -->
-  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-
-  <!-- Icon Docker -->
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-  <!-- Profile Picture -->
-  <!-- <img align="right" alt="Vitor-pic" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLATfW9lZKkN-ylN0w7oZp_xaf_zBPA3W7PMjGPv8hHIhP-P1o=s576-c-no"> -->
-
-  
-###
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div> -->
 
 
-  <!-- CONTACT BADGES -->
-  <div style="display: inline_block">
-    <!-- Icon Linkedin link -->
-    <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <!-- Icon Gmail link -->
-    <a href="mailto:dev.vitorlima@gmail.com" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <!-- Visitor Badge -->
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
-  </div>
-  
+<div style="display: inline_block" align="right">
+  <h2>📞 Contact Me</h2>
+  <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dev.vitorlima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
-<!-- SNAKE GAME -->
+
+
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+
 
