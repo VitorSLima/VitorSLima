@@ -1,10 +1,18 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=600&height=45&color=FFA500&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+
 <!-- GITHUB STATS -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/VitorSLima/github-readme-stats">
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
+  <a href="https://git.io/streak-stats">
+    <img align="center" height="180"src="https://github-readme-stats.vercel.app/api?username=VitorSLima&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"&hide_border=true" alt="Vitor's github stats"/>
   </a>
 </div>
 
