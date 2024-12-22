@@ -72,7 +72,6 @@
 </div>
 
 
-
 <!-- Snake Game -->
 <div align="center">
   <picture>
