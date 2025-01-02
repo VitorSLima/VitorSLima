@@ -5,7 +5,6 @@
 </p>
 
 
-
 ## 🚀 Tech Skills
 
 <div style="display: inline_block">
