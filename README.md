@@ -1,3 +1,4 @@
+<!-- BANNER -->
 <p align="center">
   <a href="https://github.com/VitorSLima/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello!%20I'm%20Vitor%20Lima;Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=600&height=50&color=FFA500&vCenter=true&pause=1000&size=24" />
@@ -5,6 +6,7 @@
 </p>
 
 
+<!-- TECH SKILLS BADGES --> 
 ## 🚀 Tech Skills
 
 <div style="display: inline_block">
@@ -46,7 +48,7 @@
 </div>
 
 
-
+<!-- GITHUB CARD STATS -->
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -71,7 +73,7 @@
 </div>
 
 
-<!-- Snake Game -->
+<!-- SNAKE GAME -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg" />
