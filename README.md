@@ -14,6 +14,7 @@ Eu sou o **Vitor**, desenvolvedor entusiasta por tecnologia e aprendizado contí
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
+<br/>
 
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank">
