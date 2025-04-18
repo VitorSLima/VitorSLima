@@ -74,6 +74,7 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
+<br/>
 
 <!-- PACMAN GAME -->
 <picture>
