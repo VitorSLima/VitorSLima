@@ -6,6 +6,7 @@
 </p>
 
 
+
 ## 🚀 Sobre Mim
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
@@ -14,7 +15,9 @@ Eu sou o **Vitor**, desenvolvedor entusiasta por tecnologia e aprendizado contí
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
+
 <br/>
+
 
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank">
@@ -26,11 +29,13 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
+
 ---
 
-<!-- TECH SKILLS BADGES --> 
 
+<!-- TECH SKILLS BADGES --> 
 <div style="display: inline_block">
+
   <!-- FRONT END SKILLS -->
   <h3>🎨 Front-End</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -66,13 +71,14 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <h3>🎨 UI/UX</h3>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+
 </div>
+
 
 ---
 
-<!-- GITHUB CARD STATS -->
-<br/>
 
+<!-- GITHUB CARD STATS -->
 <div align="center">
   <a href="https://github.com/VitorSLima/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
@@ -82,8 +88,10 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   </a>
 </div>
 
+
 <br/>
 <br/>
+
 
 <!-- PACMAN GAME -->
 <picture>
