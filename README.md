@@ -97,7 +97,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorSLima/VitorSLima/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorSLima/VitorSLima/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/VitorSLima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorSLima/VitorSLima/output/pacman-contribution-graph.svg">
 </picture>
 
 <!-- SNAKE GAME -->
