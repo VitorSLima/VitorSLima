@@ -32,7 +32,6 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 
 ---
 
-
 <!-- TECH SKILLS BADGES --> 
 <div style="display: inline_block">
 
