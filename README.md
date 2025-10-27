@@ -6,9 +6,7 @@
 </p>
 
 
-
 ## 🚀 Sobre Mim
-
 
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
@@ -17,12 +15,7 @@ Eu sou o **Vitor**, desenvolvedor entusiasta por tecnologia e aprendizado contí
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
-
-
 <br/>
-
-
-
 
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank">
