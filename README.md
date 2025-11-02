@@ -27,7 +27,6 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=VitorSLima&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
-
 ---
 
 <!-- TECH SKILLS BADGES --> 
@@ -71,9 +70,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 
 </div>
 
-
 ---
-
 
 <!-- GITHUB CARD STATS -->
 <div align="center">
