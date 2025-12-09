@@ -78,6 +78,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <a href="https://github.com/VitorSLima/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
   </a>
+  
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
   </a>
