@@ -17,6 +17,7 @@ Estou sempre em busca de novos desafios técnicos e aberto a oportunidades que m
 
 <br/>
 
+
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/vitors-lima/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
