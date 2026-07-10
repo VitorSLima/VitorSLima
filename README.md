@@ -1,8 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <a href="https://github.com/VitorSLima/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello!%20I'm%20Vitor%20Lima;Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=600&height=50&color=FFA500&vCenter=true&pause=1000&size=24" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello!+I'm+Vitor+Lima;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -79,13 +77,11 @@ Estou sempre em busca de novos desafios técnicos e aberto a oportunidades que m
 
 <!-- GITHUB CARD STATS -->
 <div align="center">
-  <a href="https://github.com/VitorSLima/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSLima&layout=compact&theme=vision-friendly-dark" alt="Top Langs Vitor" />
-  </a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=VitorSLima&theme=blueberry-duo&border_radius=5&card_width=500&card_height=200" alt="Vitor's GitHub Streak"/>
+</a>
   
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=VitorSLima&theme=highcontrast" alt="Vitor Lima" />
-  </a>
 </div>
 
 <br/>
