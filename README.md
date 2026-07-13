@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello!+I'm+Vitor+Lima;Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1100&width=455&lines=Hello!+I'm+Vitor+Lima;and+I'm+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 
