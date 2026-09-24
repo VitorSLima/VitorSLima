@@ -74,6 +74,7 @@ Estou sempre em busca de novos desafios técnicos e aberto a oportunidades que m
  
 </div>
 
+
 ---
 
 <!-- GITHUB CARD STATS -->
