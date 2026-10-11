@@ -3,7 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1100&width=455&lines=Hello!+I'm+Vitor+Lima;and+I'm+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
-
 ## 🚀 Sobre Mim
 
 
