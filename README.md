@@ -12,6 +12,7 @@ Eu sou o **Vitor**, Software Engineer entusiasta por tecnologia e aprendizado co
 
 Estou sempre em busca de novos desafios técnicos e aberto a oportunidades que me permitam colocar arquitetura de software e IA em prática. 🤝✨
 
+
 <br/>
 
 <div style="display: inline_block" align="center">
