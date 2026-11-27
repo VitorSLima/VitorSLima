@@ -5,7 +5,6 @@
 
 ## 🚀 Sobre Mim
 
-
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 Eu sou o **Vitor**, Software Engineer entusiasta por tecnologia e aprendizado contínuo. Atualmente curso uma pós-graduação em Arquitetura de Software com IA e aplico meus conhecimentos em projetos que unem Node.js e TypeScript, do back-end à interface.
